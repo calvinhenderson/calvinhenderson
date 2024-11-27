@@ -1,18 +1,20 @@
 ### 👋 Hello! I'm Calvin Henderson.
 
-I'm a husband, father, and self-taught developer. I enjoy hanging
-out with my family, creating software and automations, working on
-my '06 Buell XB9SX, and tinkering in my home lab in my free time.
+I'm a husband, father, veteran, and self-taught developer. I enjoy hanging out with my family, creating
+software and automations, working on my '06 Buell XB9SX, and tinkering in my home lab in my free time.
 
+### 🎓 Education
+
+I'm currently attending Harrisburg University for a Bachelors in Computer and Information Sciences.
 
 ### 💼 Work
 
+> [!NOTE]
 > I'm transitioning into software development full-time. Send me an email!
 
-I currently work for a local school district as a Technology Specialist
-where I develop software and automations, mentor interns, manage the
-day-to-day operations of our support center, and administer Windows and
-Linux servers.
+I currently work for a local school district as a Technology Specialist where I develop software and
+automations, mentor interns, oversee the day-to-day operations of our support center, and administer
+Windows and Linux servers.
 
 
 ### 🔩 Technologies
@@ -44,10 +46,10 @@ Linux servers.
 
 ### 🧑‍💻 Uses
 
-- 💻 Lenovo Thinkpad, MacBook Air
-- 💿 Debian Linux, macOS Sonoma
-- 🎧 ATH-M40x
-- ⌨️ [VOID Ergo S](https://github.com/calvinhenderson/qmk_firmware/tree/master/keyboards/void/ergo)
+- 💻 Lenovo Yoga
+- 💿 Fedora Linux
+- 🎧 Sony WF-1000XM5
+- ⌨️ [20-keys chording kb](https://github.com/calvinhenderson/grippy-20)
 
 
 ### ⚡ Stats
