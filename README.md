@@ -70,7 +70,7 @@ _For learning and testing purposes of course!_
   <td><ul>
       <li>24U Free-standing Rack -- brand unknown</li>
       <li>2x HP 2520G</li>
-      <li>1x Intel NUC -- OpenWRT<ul>
+      <li>1x Intel NUC -- OPNsense<ul>
         <li>Desoldered portion of rear IO to hack in an additional PCIe 1G NIC</li>
         <li>Intel Haswell i5; 16GB DDR3</li>
       </ul></li>
