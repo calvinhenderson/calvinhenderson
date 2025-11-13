@@ -1,21 +1,14 @@
-### 👋 Hello! I'm Calvin Henderson.
+### 👋 Hello!
 
-I'm a husband, father, veteran, and self-taught developer. I enjoy hanging out with my family, creating
-software and automations, working on my '06 Buell XB9SX, and tinkering in my home lab in my free time.
+As a husband, father, and veteran, I'm also a self-taught developer who finds joy in spending quality time with my family, exploring trails, building software and electronics projects, and experimenting with my home lab in my free time.
 
 ### 🎓 Education
 
-I'm currently attending Harrisburg University for a Bachelors in Computer and Information Sciences.
+Currently pursuing a Bachelor’s degree in Computer and Information Sciences at Harrisburg University, where I’m gaining foundational knowledge to support my career in technology.
 
 ### 💼 Work
 
-> [!NOTE]
-> I'm transitioning into software development full-time. Send me an email!
-
-I currently work for a local school district as a Technology Specialist where I develop software and
-automations, mentor interns, oversee the day-to-day operations of our support center, and administer
-Windows and Linux servers.
-
+I'm a Systems Administrator who specializes in developing software and automation solutions while managing Windows, Linux, and macOS systems, servers, and supporting infrastructure. My work focuses on streamlining operations, ensuring reliability, and maintaining secure, scalable cross-platform environments.
 
 ### 🔩 Technologies
 
@@ -49,8 +42,7 @@ Windows and Linux servers.
 - 💻 Lenovo Yoga
 - 💿 Fedora Linux
 - 🎧 Sony WF-1000XM5
-- ⌨️ [20-keys chording kb](https://github.com/calvinhenderson/grippy-20)
-
+- ⌨️ [Taipographer](https://github.com/calvinhenderson/taipographer)
 
 ### ⚡ Stats
 
@@ -60,28 +52,3 @@ Windows and Linux servers.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calvinhenderson&locale=en&hide_title=true&layout=compact&card_width=213&langs_count=5&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=calvinhenderson&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-
-### 🔬 Home Lab
-
-_For learning and testing purposes of course!_
-<table><tr>
-  <td><img src="https://i.imgur.com/MPbFqV1m.jpeg" alt="Home lab equipment" /></td>
-  <td><ul>
-      <li>24U Free-standing Rack -- brand unknown</li>
-      <li>2x HP 2520G</li>
-      <li>1x Intel NUC -- OPNsense<ul>
-        <li>Desoldered portion of rear IO to hack in an additional PCIe 1G NIC</li>
-        <li>Intel Haswell i5; 16GB DDR3</li>
-      </ul></li>
-      <li>3x Intel NUC -- Fedora CoreOS and Ubuntu Server<ul>
-        <li>Intel Haswell i5; 16GB DDR3</li>
-      </ul></li>
-      <li>1x Dell R620<ul>
-        <li>Proxmox VE</li>
-        <li>2x Intel Xeon E5-2670 v2; 256GB ECC RAM</li>
-        <li>Dell PERC H710P -- Flashed firmware to support JBOD</li>
-        <li>6x 1.2TB 15k SAS; 2x 300G 15k SAS</li>
-      </ul></li>
-    </ul></td>
-</tr></table>
